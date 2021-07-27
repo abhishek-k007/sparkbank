@@ -11,7 +11,7 @@
 <body>
     <nav class="navbar navbar-customer">
         <div class="logo" id="homePage">
-        <p class="noselect" style="cursor: pointer;">$park Bank</p>
+        <p class="noselect" style="cursor: pointer;">$park B@nk</p>
         </div>
         <div>
             <ul class="item">
@@ -72,6 +72,6 @@
             location.href = "index.php";
         };
     </script>
-    <footer> &copy; Spark Bank || Site is designed by Abhishek Kumar</footer>
+    <footer> &copy; Spark B@nk || Site is designed by Abhishek Kumar</footer>
 </body>
 </html>
