@@ -1,5 +1,5 @@
 # sparkbank
-website link: http://sparkbank.epizy.com
+website link: http://thespark.epizy.com
 
 Graduate Rotational Internship Program The Sparks Foundation, Basic Banking System
 
