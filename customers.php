@@ -35,10 +35,10 @@
             </thead>
             <tbody>
             <?php
-                $server = "sql208.epizy.com";
-                $username = "epiz_29174813";
-                $password = "kSAbKi0tyQM";
-                $db = "epiz_29174813_sparkbank";
+                $server = "sql104.epizy.com";
+                $username = "epiz_29252303";
+                $password = "tC4ThVMcmyWK8S";
+                $db = "epiz_29252303_spark";
 
                 //establish connection
                 $con = mysqli_connect($server, $username, $password,$db);
